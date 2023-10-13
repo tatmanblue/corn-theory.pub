@@ -10,6 +10,9 @@ Carl landed just outside a of town. Carl didn’t know if this was where he was 
 ## Format/Platforms
 Unity Game. RPG/Open world style play in a modern setting. For Windows, MacOS, Linux
 
+## Access to the Code
+An NDA is required to view the materials including game design documentations and code. If you wish to view this material, please contact me.
+
 ## Assets
 Built with Unity 2021.03 LTS
 
