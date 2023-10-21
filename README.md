@@ -1,11 +1,11 @@
 # Corn Theory -- The Game
 
 ## Intro
-Carl was good at hacking at all things software and hardware. But he was bored with himself and school. On a whim, he decided to apply to the CIA. The CIA didn’t hesitate to hire Carl.
+Cayden aka Cay was good at hacking at all things software and hardware. But he was bored with himself and school. On a whim, he decided to apply to the CIA. The CIA didn’t hesitate to hire Cay.
 
-Carl was excited to be in the CIA. The next day, at 3am, he boarded a flight on dusty and rather worn military transport which was suppose to take him to The Farm -- CIA’s famous training base in Virginia. Mid flight, Carl was pushed out of the plane with nothing more than self opening parachute on his back, into the darkness of the night.
+Cay was excited to be in the CIA. The next day, at 3am, he boarded a flight on dusty and rather worn military transport which was suppose to take him to The Farm -- CIA’s famous training base in Virginia. Mid flight, Cay was pushed out of the plane with nothing more than self opening parachute on his back, into the darkness of the night.
 
-Carl landed just outside a of town. Carl didn’t know if this was where he was supposed to be. Was this part of the training or something else? Carl was about to find out.
+Cay landed just outside a of town. Cay didn’t know if this was where he was supposed to be. Was this part of the training or something else? Cay was about to find out.
 
 ## Format/Platforms
 Unity Game. RPG/Open world style play in a modern setting. For Windows, MacOS, Linux
