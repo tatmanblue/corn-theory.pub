@@ -7,6 +7,8 @@ Cay was excited to be in the CIA. The next day, at 3am, he boarded a flight on d
 
 Cay landed just outside of an unknown town. Cay didn’t know if this was where he was supposed to be. Was this part of the training or something else? Cay was about to find out.
 
+[![Release Announcement]https://img.youtube.com/vi/ux6XGIV_X9k/0.jpg)](https://youtu.be/ux6XGIV_X9k)
+
 ## Format/Platforms
 Unity Game. RPG/Open world style play in a modern setting. For Windows, MacOS, Linux
 
