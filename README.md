@@ -1,11 +1,13 @@
-# Corn Theory -- The Game
+# Pitcairn Island -- The Game
 
 ## Intro
 Cayden aka Cay was good at hacking at all things software and hardware. But he was bored with himself and school. On a whim, he decided to apply to the CIA. The CIA didn’t hesitate to hire Cay.
 
 Cay was excited to be in the CIA. The next day, at 3am, he boarded a flight on dusty and rather worn military transport which was suppose to take him to The Farm -- CIA’s famous training base in Virginia. Mid flight, Cay was pushed out of the plane with nothing more than self opening parachute on his back, into the darkness of the night.
 
-Cay landed just outside of an unknown town. Cay didn’t know if this was where he was supposed to be. Was this part of the training or something else? Cay was about to find out.
+Cay landed just outside of an unknown town. Cay didn’t know if this was where he was supposed to be. Was this part of the training or something else? Cay was about to find out.  
+
+Join Cay, the fearless hacker turned CIA operative, as he dives headfirst into a world of secrets, danger, and unexpected twists.
 
 [![Release Announcement](https://img.youtube.com/vi/ux6XGIV_X9k/0.jpg)](https://youtu.be/ux6XGIV_X9k)  
 
