@@ -11,7 +11,7 @@ Join Cay, the fearless hacker turned CIA operative, as he dives headfirst into a
 
 [![Release Announcement](https://img.youtube.com/vi/ux6XGIV_X9k/0.jpg)](https://youtu.be/ux6XGIV_X9k)  
 
-Release will be in summer 2024.
+Release dates will be announced later.  Current plan is an early release on 2024.
 
 ## Format/Platforms
 Unity Game. RPG/Open world style play in a modern setting. For Windows, MacOS, Linux
@@ -39,4 +39,4 @@ On-going/Active
 
 This game is in prototype, early development stage.
 
-edited: 2023.10.11
+edited: 2024.06.11
